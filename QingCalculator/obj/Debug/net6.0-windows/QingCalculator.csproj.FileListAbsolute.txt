@@ -1,0 +1,17 @@
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\bin\Debug\net6.0-windows\QingCalculator.exe
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\bin\Debug\net6.0-windows\QingCalculator.deps.json
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\bin\Debug\net6.0-windows\QingCalculator.runtimeconfig.json
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\bin\Debug\net6.0-windows\QingCalculator.dll
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\bin\Debug\net6.0-windows\QingCalculator.pdb
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\QingCalculator.csproj.AssemblyReference.cache
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\QingCalculator.Form1.resources
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\QingCalculator.csproj.GenerateResource.cache
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\QingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\QingCalculator.AssemblyInfoInputs.cache
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\QingCalculator.AssemblyInfo.cs
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\QingCalculator.csproj.CoreCompileInputs.cache
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\QingCalculator.dll
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\refint\QingCalculator.dll
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\QingCalculator.pdb
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\QingCalculator.genruntimeconfig.cache
+E:\Libraries\desktop\QingCalculator\QingCalculator\QingCalculator\obj\Debug\net6.0-windows\ref\QingCalculator.dll
